@@ -32,6 +32,12 @@ npm install
 npm start
 npm run server
 ```
+![Capture](https://user-images.githubusercontent.com/81898585/161425803-a61614f1-209d-4e49-868c-6e5e804c7dad.JPG)
+![2](https://user-images.githubusercontent.com/81898585/161425785-a3568bf6-e56e-4b25-89ec-4f2a6831dedb.JPG)
+![3](https://user-images.githubusercontent.com/81898585/161425816-b40ab19d-eeab-41c9-96ef-4851c612192a.JPG)
+![4](https://user-images.githubusercontent.com/81898585/161425821-1f30d026-7da5-41d0-87c6-d4649b4fe48a.JPG)
+
+
 
 ## Author
 
